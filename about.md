@@ -6,6 +6,6 @@ modified: 2014-02-26
 
 ---
 
-Email - [katrinapday@gmail.com](katrinapday@gmail.com)
+Email - <katrinapday@gmail.com>
 
 [Download my resume](/resume.pdf)
